@@ -1,0 +1,17 @@
+Tested on macOS Ventura, as of Sept. 20, 2024.
+
+1. Copy and open "Esperanto 3.1 Unified.dmg" to your Desktop.
+
+2. Open the "Keyboard Installer" app.
+
+3. Drag and drop the "Esperanto.keylayout" file into the "Keyboard Installer" app window.
+
+4. Click on "Install for current user (recommended)".
+
+5. Once the installation has completed, open System Preferences.
+
+6. Scroll down to "Keyboard", then click on "Edit..." next to Input Sources under Text Input.
+
+7. Press the "+" button at the bottom-left, then in the left-hand pane scroll down to "Others".
+
+8. Select "Esperanto", then click "Add". The Input Selector will appear at the top-left in the Finder bar.

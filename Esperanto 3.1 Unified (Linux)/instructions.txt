@@ -1,0 +1,17 @@
+Tested on Linux Mint 22, as of Sept 20, 2024.
+
+1. Copy the "eo" file into "/usr/share/X11/xkb/symbols".
+
+2. Paste the following (as root) into "/usr/share/X11/xkb/rules/evdev.xml" and "/usr/share/X11/xkb/rules/xorg.xml" just before </layoutList>:
+<layout>
+    <configItem>
+    <name>eo</name>
+    <shortDescription>EO</shortDescription>
+    <description>Esperanto (3.1 Unified, modern)</description>
+    <languageList>
+        <iso639Id>epo</iso639Id>
+    </languageList>
+    </configItem>
+</layout>
+
+3. Log out and back in (or restart) and check System Settings > Keyboard > Layouts for the new input method "Esperanto (3.1 Unified, modern)".

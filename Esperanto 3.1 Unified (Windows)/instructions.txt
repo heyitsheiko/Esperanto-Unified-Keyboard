@@ -1,0 +1,10 @@
+Tested on Windows 11 Pro, as of Sept. 20, 2024.
+
+1. Click on the installer for your platform. For most people, this will be the "amd64" program.
+
+2. If a security warning appears, click "Run".
+
+3. At the UAC prompt, enter the appropriate administrative credentials.
+
+4. Once "Esperanto 3.1 Unified" has installed, check the Taskbar at the lower-right for the Language Bar to select "EN-US: Esperanto".
+Note that here, en-US refers to the base key layout, while Esperanto refers to the modified layout for Esperanto input.
